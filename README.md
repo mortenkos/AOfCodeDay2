@@ -1,0 +1,2 @@
+# AOfCodeDay2
+Solution
